@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "title": "Pizzas",
+    "description": "Mais de 50 sabores de pizza em até 4 tamanhos diferentes de fome.",
+    "tipos": [
+      {
+        "id": 1,
+        "title": "Portuguesa",
+        "tamanhos": [
+          {
+            "id": 1,
+            "title": "Gigante",
+            "price": "R$76,00"
+          },
+          {
+            "id": 2,
+            "title": "Grande",
+            "price": "R$59,00"
+          },
+          {
+            "id": 3,
+            "title": "Média",
+            "price": "R$42,00"
+          },
+          {
+            "id": 4,
+            "title": "Pequena",
+            "price": "R$29,00"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Calabresa",
+        "tamanhos": [
+          {
+            "id": 1,
+            "title": "Gigante",
+            "price": "R$76,00"
+          },
+          {
+            "id": 2,
+            "title": "Grande",
+            "price": "R$59,00"
+          },
+          {
+            "id": 3,
+            "title": "Média",
+            "price": "R$42,00"
+          },
+          {
+            "id": 4,
+            "title": "Pequena",
+            "price": "R$29,00"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Frango Frito",
+        "tamanhos": [
+          {
+            "id": 1,
+            "title": "Gigante",
+            "price": "R$76,00"
+          },
+          {
+            "id": 2,
+            "title": "Grande",
+            "price": "R$59,00"
+          },
+          {
+            "id": 3,
+            "title": "Média",
+            "price": "R$42,00"
+          },
+          {
+            "id": 4,
+            "title": "Pequena",
+            "price": "R$29,00"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Marguerita",
+        "tamanhos": [
+          {
+            "id": 1,
+            "title": "Gigante",
+            "price": "R$76,00"
+          },
+          {
+            "id": 2,
+            "title": "Grande",
+            "price": "R$59,00"
+          },
+          {
+            "id": 3,
+            "title": "Média",
+            "price": "R$42,00"
+          },
+          {
+            "id": 4,
+            "title": "Pequena",
+            "price": "R$29,00"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Pizza 4 Quejos",
+        "tamanhos": [
+          {
+            "id": 1,
+            "title": "Gigante",
+            "price": "R$76,00"
+          },
+          {
+            "id": 2,
+            "title": "Grande",
+            "price": "R$59,00"
+          },
+          {
+            "id": 3,
+            "title": "Média",
+            "price": "R$42,00"
+          },
+          {
+            "id": 4,
+            "title": "Pequena",
+            "price": "R$29,00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Massas",
+    "description": "10 tipos de massas com diferentes molhos para te satisfazer."
+  },
+  {
+    "id": 3,
+    "title": "Calzones",
+    "description": "Calzones super recheados com mais de 50 sabores diferentes."
+  },
+  {
+    "id": 4,
+    "title": "Bebidas não-alcóolicas",
+    "description": "Refrigerantes, sucos, chá gelado, energéticos e água."
+  },
+  {
+    "id": 5,
+    "title": "Bebidas alcóolicas",
+    "description": "Cervejas artesanais, vinhos e destilados."
+  }
+]
